@@ -10,15 +10,11 @@ As a machine learning engineer, you have been tasked with providing a proof of c
 
 To get started with the project, follow these steps:
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/qudus4l/Handwritten-Digits-Classifier-with-PyTorch.git
-   ```
 
-2. Set up the environment:
+1. Set up the environment:
    - Ensure you have Python 3.x installed.
 
-3. Explore the code and resources in the repository.
+2. Explore the code and resources in the repository.
 
 ## Usage
 
